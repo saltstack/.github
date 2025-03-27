@@ -28,8 +28,8 @@ SaltStack, the company, was acquired by VMware in 2020. VMware was later [acquir
 - [Salt Project Website/Blog](https://saltproject.io/) - Salt Project (Salt Open Source) website.
   - [Blog and Security Announcement RSS Feeds](https://saltproject.io/rss-feeds/)
 - [`salt` GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
-- [Salt Project User Guide](https://docs.saltproject.io/salt/user-guide/en/latest/index.html) - These tutorials walk you through the basics of getting Salt Project up and running.
-- [Salt Project Install Guide](https://docs.saltproject.io/salt/install-guide/en/latest/) - These tutorials walk you through the basics of getting Salt Project up and running.
+- [Salt Project User Guide](https://docs.saltproject.io/salt/user-guide/en/latest/index.html) - The guide to help Salt users learn about Salt core concepts and features.
+- [Salt Project Install Guide](https://docs.saltproject.io/salt/install-guide/en/latest/) - The guide to installing Salt.
 - [Salt Project Reference Documentation Landing](https://docs.saltproject.io/en/latest/contents.html) - Official home page of reference documentation.
 - [Salt Project Core Module Index (Refernce Documentation)](https://docs.saltproject.io/en/latest/py-modindex.html) - Official index of built-in Salt modules.
 - [Tanzu Salt](https://www.vmware.com/products/app-platform/tanzu-salt) - Tanzu Salt website for the Enterprise solution. A _VMware by Broadcom_ product.
