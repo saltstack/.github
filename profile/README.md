@@ -54,6 +54,6 @@ SaltStack, the company, was [acquired by VMware in 2020](https://blogs.vmware.co
 
 ### Salt Extensions and Salt Formulas
 
-- [Salt Extensions](https://github.com/salt-extensions) - A community-maintained central collection of extension repositories for `salt`.
+- [Salt Extensions](https://github.com/salt-extensions) - A community-maintained central collection of extension repositories for Salt Project, maintained by the Salt Extensions Working Group.
 - [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for Salt Project, maintained by the Salt Formulas Working Group.
 - [Salt Formulas](https://github.com/salt-formulas) - A separate community-maintained collection of formula repositories for Salt Project, **NOT** maintained by the Salt Formulas Working Group.
