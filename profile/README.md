@@ -19,7 +19,7 @@ Welcome to the Salt Project GitHub organization, where all of our core-maintaine
 
 Built on python, **Salt** uses simple and human-readable YAML combined with event-driven automation to deploy and configure complex IT systems. In addition to leveling-up [Tanzu Salt](https://www.vmware.com/products/app-platform/tanzu-salt), Salt can be found under the hood of products from Juniper, Cisco, Cloudflare, Nutanix, SUSE, and others.
 
-SaltStack, the company, was acquired by VMware in 2020. VMware was later [acquired by Broadcom in 2023](https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware). Salt Project remains an open source ecosystem that Broadcom supports and contributes to.
+SaltStack, the company, was [acquired by VMware in 2020](https://blogs.vmware.com/management/2020/10/vmware-completes-saltstack-acquisition-to-bolster-software-configuration-management-and-infrastructure-automation.html). VMware was later [acquired by Broadcom in 2023](https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware). Salt Project remains an open source ecosystem that Broadcom supports and contributes to.
 
 </div>
 
